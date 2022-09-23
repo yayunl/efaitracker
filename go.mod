@@ -1,3 +1,3 @@
-module github.com/yayunl/efaitracker
+module efaitracker
 
 go 1.18
