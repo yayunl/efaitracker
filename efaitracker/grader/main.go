@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	"efaitracker/greeting"
+	"efaitracker/efaitracker/greeting"
 	"fmt"
 	"os"
 )
